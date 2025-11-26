@@ -13,17 +13,13 @@ A comprehensive **data science framework** for analyzing worldwide ocean cleanup
 ### 🎥 Project Demo Video
 
 
-https://github.com/user-attachments/assets/1f898fb1-51e1-4da7-b682-d6dfd74d1080
+
+
+https://github.com/user-attachments/assets/3eb9439e-fbd5-4f8e-8873-8f68adfcc9d3
 
 
 
-
-<!-- <video width="800" controls>
-  <source src="https://github.com/user-attachments/assets/b383d125-c279-4364-9315-19af09920d2a" type="video/mp4">
-  Your browser does not support the video tag.
-</video> -->
-
-*Watch the demo video to see the project in action, including data generation, cost analysis, and interactive map visualizations.*
+*Watch the demo video to see the project in action.*
 
 ---
 
