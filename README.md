@@ -6,9 +6,18 @@ A comprehensive **data science framework** for analyzing worldwide ocean cleanup
 
 *Severe plastic pollution on coastal beaches highlights the critical need for organized cleanup efforts and cost-effective resource allocation.*
 
-![Global Ocean Cleanup Cost Analysis Map](map2.png)
+![Global Ocean Cleanup Cost Analysis Map](cover/map2.png)
 
 *Interactive global map showing ocean cleanup events across 64 countries with cost-based color coding. Each marker represents cleanup locations, with colors indicating total cost ranges from green (< $1,000) to red (> $15,000).*
+
+### 🎥 Project Demo Video
+
+<video width="800" controls>
+  <source src="cover/demovideo.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
+*Watch the demo video to see the project in action, including data generation, cost analysis, and interactive map visualizations.*
 
 ---
 
@@ -287,7 +296,7 @@ The project generates interactive Folium-based maps showing cleanup locations wi
 
 #### Regional Focus: India and Sri Lanka
 
-![Regional Ocean Cleanup Map - India and Sri Lanka](map1.png)
+![Regional Ocean Cleanup Map - India and Sri Lanka](cover/map1.png)
 
 *Detailed view of cleanup activities in India and Sri Lanka, showing cost distribution across coastal regions with interactive markers and country-level statistics.*
 
