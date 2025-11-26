@@ -12,8 +12,10 @@ A comprehensive **data science framework** for analyzing worldwide ocean cleanup
 
 ### 🎥 Project Demo Video
 
+
+
 <video width="800" controls>
-  <source src="https://raw.githubusercontent.com/Prabuddha747/Global-Ocean-Cleanup-Data-Analysis/main/cover/demovideo.mp4" type="video/mp4">
+  <source src="https://github.com/user-attachments/assets/b383d125-c279-4364-9315-19af09920d2a" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 
