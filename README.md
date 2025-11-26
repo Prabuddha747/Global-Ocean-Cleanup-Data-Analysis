@@ -12,12 +12,11 @@ A comprehensive **data science framework** for analyzing worldwide ocean cleanup
 
 ### 🎥 Project Demo Video
 
-<video width="800" controls>
-  <source src="cover/demovideo.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+[![Demo Video](cover/pollution.jpg)](cover/demovideo.mp4)
 
-*Watch the demo video to see the project in action, including data generation, cost analysis, and interactive map visualizations.*
+*Click the image above to watch the demo video showing the project in action, including data generation, cost analysis, and interactive map visualizations.*
+
+**Direct Video Link:** [Watch Demo Video](cover/demovideo.mp4)
 
 ---
 
