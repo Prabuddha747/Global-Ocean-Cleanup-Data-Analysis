@@ -18,10 +18,10 @@ https://github.com/user-attachments/assets/1f898fb1-51e1-4da7-b682-d6dfd74d1080
 
 
 
-<video width="800" controls>
+<!-- <video width="800" controls>
   <source src="https://github.com/user-attachments/assets/b383d125-c279-4364-9315-19af09920d2a" type="video/mp4">
   Your browser does not support the video tag.
-</video>
+</video> -->
 
 *Watch the demo video to see the project in action, including data generation, cost analysis, and interactive map visualizations.*
 
