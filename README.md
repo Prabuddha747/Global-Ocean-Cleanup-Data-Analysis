@@ -2,6 +2,10 @@
 
 A comprehensive **data science framework** for analyzing worldwide ocean cleanup activities, including **cost modeling, geographic visualization, and machine learning** insights.
 
+![Global Ocean Cleanup Cost Analysis Map](map2.png)
+
+*Interactive global map showing ocean cleanup events across 64 countries with cost-based color coding. Each marker represents cleanup locations, with colors indicating total cost ranges from green (< $1,000) to red (> $15,000).*
+
 ---
 
 ## Overview
@@ -274,13 +278,38 @@ costs = calc.calculate_comprehensive_costs({
 
 ## Visualizations
 
-### Interactive
+### Interactive Maps
+
+The project generates interactive Folium-based maps showing cleanup locations with cost-based color coding. Each marker represents cleanup events, with colors indicating total cost ranges.
+
+#### Regional Focus: India and Sri Lanka
+
+![Regional Ocean Cleanup Map - India and Sri Lanka](map1.png)
+
+*Detailed view of cleanup activities in India and Sri Lanka, showing cost distribution across coastal regions with interactive markers and country-level statistics.*
+
+#### Map Features
+
+- **Color-coded markers** by total cost:
+  - 🟢 Green: < $1,000
+  - 🟡 Yellow: $1,000 - $5,000
+  - 🟠 Orange: $5,000 - $10,000
+  - 🔴 Red: $10,000 - $15,000
+  - 🔴 Dark Red: > $15,000
+- **Interactive popups** with detailed event information
+- **Country-level statistics** panel showing top countries by total cost
+- **Marker clustering** for better performance with large datasets
+- **Zoom and pan** functionality for detailed exploration
+
+### Other Visualizations
+
+**Interactive:**
 - Cleanup location map  
 - Cost heatmap  
 - Clustering  
 - Country overlays  
 
-###  Static
+**Static:**
 - Cost distributions  
 - Efficiency analysis  
 - Country comparisons  
@@ -346,7 +375,7 @@ Includes:
 
 ---
 
-## 🙏 Acknowledgments
+## Acknowledgments
 
 - Global Ocean Cleanup Communities  
 - Independent Sector (Volunteer Valuation)  
