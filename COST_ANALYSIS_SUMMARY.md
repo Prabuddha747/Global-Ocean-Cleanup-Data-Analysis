@@ -46,7 +46,7 @@ A comprehensive cost calculation system that includes:
 - **`add_costs_to_existing_data.py`**: Adds costs to any existing CSV file
 - **`simple_cost_analysis.py`**: Creates comprehensive reports and visualizations
 - **`show_point_costs.py`**: Displays individual point cost details
-- **`create_global_cost_map.py`**: Creates interactive cost maps (requires folium)
+- **`create_corrected_global_map.py`**: Creates interactive cost maps with corrected coordinates (requires folium)
 
 ## 📈 **Cost Analysis Features**
 
@@ -92,7 +92,7 @@ The cost analysis covers cleanup points in:
 - `add_costs_to_existing_data.py` - Add costs to existing data
 - `simple_cost_analysis.py` - Generate reports and visualizations
 - `show_point_costs.py` - Display individual point costs
-- `create_global_cost_map.py` - Create interactive maps
+- `create_corrected_global_map.py` - Create interactive maps with cost visualization
 
 ## 🚀 **Usage Examples**
 

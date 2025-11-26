@@ -2,6 +2,10 @@
 
 A comprehensive **data science framework** for analyzing worldwide ocean cleanup activities, including **cost modeling, geographic visualization, and machine learning** insights.
 
+![Ocean Pollution - The Problem We're Solving](cover/pollution.jpg)
+
+*Severe plastic pollution on coastal beaches highlights the critical need for organized cleanup efforts and cost-effective resource allocation.*
+
 ![Global Ocean Cleanup Cost Analysis Map](map2.png)
 
 *Interactive global map showing ocean cleanup events across 64 countries with cost-based color coding. Each marker represents cleanup locations, with colors indicating total cost ranges from green (< $1,000) to red (> $15,000).*
@@ -74,7 +78,6 @@ datascience/
 ├── cost_calculator.py
 ├── generate_global_cleanup_data.py
 ├── create_corrected_global_map.py
-├── create_global_cost_map.py
 ├── add_costs_to_existing_data.py
 ├── simple_cost_analysis.py
 ├── show_point_costs.py
