@@ -1,0 +1,94 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Virtual Environment
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+.venv
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+*/.ipynb_checkpoints/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Environment variables
+.env
+.env.local
+.env.*.local
+
+# Large generated data files (can be regenerated)
+# Exclude large CSV files that can be generated
+data/global_ocean_cleanup_data.csv
+data/global_ocean_cleanup_data_with_costs.csv
+data/global_ocean_cleanup_data_fixed_coordinates.csv
+data/global_ocean_cleanup_data_coastal_only.csv
+data/Data_Level5_BAH_OceanCleanup.csv
+
+# Keep small sample data files - these will be tracked
+# data/india_ocean_cleanup_sample_fixed.csv
+# data/india_ocean_cleanup_sample.csv
+# data/country_cost_analysis.csv
+
+# Generated maps (can be regenerated, too large for GitHub)
+maps/*.html
+
+# Generated plots (can be regenerated)
+plots/*.png
+plots/*.gif
+
+# OS
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Logs
+*.log
+*.log.*
+
+# Temporary files
+*.tmp
+*.temp
+tempCodeRunnerFile.py
+*.bak
+*.swp
+
+# Model files (if any)
+*.pkl
+*.h5
+*.model
+*.joblib
