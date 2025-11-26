@@ -346,7 +346,7 @@ Includes:
 
 ---
 
-## 🙏 Acknowledgments
+##  Acknowledgments
 
 - Global Ocean Cleanup Communities  
 - Independent Sector (Volunteer Valuation)  
